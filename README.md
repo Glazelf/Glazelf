@@ -1,6 +1,6 @@
 ### Hey I'm Glaze 👋
 
-- 🔭 I’m currently working on: [NinigiBot](https://github.com/Glazelf/NinigiBot) && [ShinjuBot](https://github.com/Glazelf/ShinjuBot)
+- 🔭 I’m currently working on: [NinigiBot](https://github.com/Glazelf/NinigiBot) && ([ShinjuBot](https://github.com/Glazelf/ShinjuBot) || [AmongDiscord](https://github.com/Glazelf/AmongDiscord))
 - 📫 How to reach me: [Glaze#6669](https://discord.gg/2gkybyu) || [Twitter](https://twitter.com/Glazelfy)
 - 😄 Pronouns: He/They
 
