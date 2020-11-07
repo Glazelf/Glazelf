@@ -1,4 +1,4 @@
-### Hey I'm Glaze [!][WavingHand]
+### Hey I'm Glaze 👋
 
 - 😄 Pronouns: He/They  
 - 🔭 I’m currently working on: [NinigiBot][linkNinigi] && ([SardineCollector][linkSardine] || [ShinjuBot][linkShinju])
@@ -23,6 +23,5 @@
 <!--Images-->
 [iconTwitter]: https://cdn4.iconfinder.com/data/icons/miu-social/60/twitter-social-media-64.png
 [iconDiscord]: https://cdn4.iconfinder.com/data/icons/vector-brand-logos/40/Discord-64.png
-[wavingHand]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif
 [bannerDiscord]: https://canary.discordapp.com/api/guilds/549214833858576395/widget.png?style=banner2
 [bannerGithub]: https://github-readme-stats.vercel.app/api?username=glazelf&count_private=true&show_icons=true&theme=tokyonight
