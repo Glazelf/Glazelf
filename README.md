@@ -1,8 +1,11 @@
 ### Hey I'm Glaze <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+- 😄 Pronouns: He/They  
 - 🔭 I’m currently working on: [NinigiBot](https://github.com/Glazelf/NinigiBot) && [some](https://github.com/Glazelf/SardineCollector) [smaller](https://github.com/Glazelf/AmongDiscord) [bots](https://github.com/Glazelf/ShinjuBot)
 - 📫 How to reach me:  
+
 [![Twitter][1.2]][1] [![Discord][2.2]][2]  
+
 [<img src="https://canary.discordapp.com/api/guilds/549214833858576395/widget.png?style=banner2">](https://discord.gg/2gkybyu)
   
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=glazelf&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/glazelf/github-readme-stats)
