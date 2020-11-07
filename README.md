@@ -13,7 +13,7 @@ Consider joining my Discord:
 
 <!--Social Media links-->
 [1]: https://twitter.com/Glazelfy
-[2]: https://discord.gg/2gkybyu
+[2]: https://discord.com/channels/@me/232875725898645504
 
 <!--Icons-->
 [1.2]: https://cdn4.iconfinder.com/data/icons/miu-social/60/twitter-social-media-64.png
