@@ -6,7 +6,7 @@
 
 [![Twitter][iconTwitter]][linkTwitter] [![Discord][iconDiscord]][linkDiscord]  
 
-[![bannerDiscord]][inviteDiscord]
+[![Discord Banner][bannerDiscord]][inviteDiscord]
   
 [![Github Stats][bannerGithub]][profileReadme]
 
