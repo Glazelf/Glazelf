@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on: [NinigiBot](https://github.com/Glazelf/NinigiBot) && [some](https://github.com/Glazelf/SardineCollector) [smaller](https://github.com/Glazelf/AmongDiscord) [bots](https://github.com/Glazelf/ShinjuBot)
 - 📫 How to reach me:  
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2]
+[![Twitter][1.2]][1] [![Discord][2.2]][2]
 - 😄 Pronouns: He/They  
   
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=glazelf&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/glazelf/github-readme-stats)
