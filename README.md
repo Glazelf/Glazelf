@@ -1,6 +1,5 @@
 ### Hey I'm Glaze 👋
 
-- 😄 Pronouns: He/They  
 - 🔭 I’m currently working on: [NinigiBot][linkNinigi] && ([SardineCollector][linkSardine] || [ShinjuBot][linkShinju])
 - 📫 How to reach me:  
 
