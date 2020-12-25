@@ -1,6 +1,6 @@
 ### Hey I'm Glaze 👋
 
-- 🔭 I’m currently working on: [NinigiBot][linkNinigi] && ([SardineCollector][linkSardine] || [ShinjuBot][linkShinju])
+- 🔭 [NinigiBot][linkNinigi] 
 - 📫 How to reach me:  
 
 [![Twitter][iconTwitter]][linkTwitter] [![Discord][iconDiscord]][linkDiscord]  
@@ -16,8 +16,6 @@
 [inviteDiscord]: https://discord.gg/2gkybyu
 [profileReadme]: https://github.com/Glazelf/Glazelf/blob/master/README.md
 [linkNinigi]: https://github.com/Glazelf/NinigiBot
-[linkSardine]: https://github.com/Glazelf/SardineCollector
-[linkShinju]: https://github.com/Glazelf/ShinjuBot
 
 <!--Images-->
 [iconTwitter]: https://cdn4.iconfinder.com/data/icons/miu-social/60/twitter-social-media-64.png
