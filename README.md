@@ -1,9 +1,9 @@
 ### Hey I'm Glaze 👋
 
-- 🔭 [NinigiBot][linkNinigi] 
+🔭 [NinigiBot][linkNinigi] 
 
 <!--Social Media icons-->
-<!--- 📫 How to reach me:  -->
+<!--📫 How to reach me:  -->
 
 <!--[![Twitter][iconTwitter]][linkTwitter] [![Discord][iconDiscord]][linkDiscord]  -->
 
