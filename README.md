@@ -4,7 +4,7 @@
 <a href=README.md><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazelf&show_icons=true&theme=tokyonight&hide_border=true"></a>
 
 <!--General stats-->
-[![Github Stats][bannerGithub]][profileReadme]
+[![Github Stats][bannerGithub]][README.md]
 
  <!--Projects-->
 <a href="https://github.com/Glazelf/NinigiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=NinigiBot&show_owner=false&theme=tokyonight&hide_border=true"></a>
@@ -16,7 +16,6 @@
 
 <!--Links-->
 [inviteDiscord]: https://discord.gg/2gkybyu
-[profileReadme]: https://github.com/Glazelf/Glazelf/blob/master/README.md
 [linkNinigi]: https://github.com/Glazelf/NinigiBot
 
 <!--Images-->
