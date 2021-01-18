@@ -9,7 +9,7 @@
 
  <!--Projects-->
 <a href="https://github.com/Glazelf/NinigiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=NinigiBot&show_owner=false&theme=tokyonight&hide_border=true"></a>
-<a href="https://github.com/Glazelf/RiseHax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=RiseHax&show_owner=false&theme=tokyonight&hide_border=true"></a>  
+<!--<a href="https://github.com/Glazelf/RiseHax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=RiseHax&show_owner=false&theme=tokyonight&hide_border=true"></a>  -->
 
 <a href="https://github.com/Glazelf/ShinjuBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=ShinjuBot&show_owner=false&theme=tokyonight&hide_border=true"></a>
 <a href="https://github.com/Glazelf/SardineCollector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=SardineCollector&show_owner=false&theme=tokyonight&hide_border=true"></a>
