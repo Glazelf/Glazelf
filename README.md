@@ -1,10 +1,12 @@
 [![Discord Banner][bannerDiscord]][inviteDiscord]  
  
-<a href="https://github.com/Glazelf/NinigiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=NinigiBot&show_owner=false&theme=tokyonight"></a>
-<a href="https://github.com/Glazelf/RiseHax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=RiseHax&show_owner=false&theme=tokyonight"></a>  
+<a href="https://github.com/Glazelf/NinigiBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=NinigiBot&show_owner=false&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Glazelf/RiseHax"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=RiseHax&show_owner=false&theme=tokyonight&hide_border=true"></a>  
 
-<a href="https://github.com/Glazelf/ShinjuBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=ShinjuBot&show_owner=false&theme=tokyonight"></a>
-<a href="https://github.com/Glazelf/SardineCollector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=SardineCollector&show_owner=false&theme=tokyonight"></a>
+<a href="https://github.com/Glazelf/ShinjuBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=ShinjuBot&show_owner=false&theme=tokyonight&hide_border=true"></a>
+<a href="https://github.com/Glazelf/SardineCollector"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Glazelf&repo=SardineCollector&show_owner=false&theme=tokyonight&hide_border=true"></a>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazelf&show_icons=true&theme=tokyonight&hide_border=true">
 
 [![Github Stats][bannerGithub]][profileReadme]
 
@@ -16,4 +18,4 @@
 
 <!--Images-->
 [bannerDiscord]: https://canary.discordapp.com/api/guilds/549214833858576395/widget.png?style=banner2
-[bannerGithub]: https://github-readme-stats.vercel.app/api?username=glazelf&count_private=true&show_icons=true&theme=tokyonight
+[bannerGithub]: https://github-readme-stats.vercel.app/api?username=glazelf&count_private=true&show_icons=true&theme=tokyonight&hide_border=true
