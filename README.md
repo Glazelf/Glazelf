@@ -1,7 +1,7 @@
 [![Discord Banner][bannerDiscord]][inviteDiscord]  
  
 <!--Language tiering-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazelf&show_icons=true&theme=tokyonight&hide_border=true">
+<a href=README.md><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazelf&show_icons=true&theme=tokyonight&hide_border=true"></a>
 
 <!--General stats-->
 [![Github Stats][bannerGithub]][profileReadme]
