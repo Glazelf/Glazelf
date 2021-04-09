@@ -1,5 +1,5 @@
-
-<a href="https://discord.gg/2gkybyu"><img src="https://canary.discordapp.com/api/guilds/549214833858576395/widget.png?style=banner2"></a>
+<!--Discord Link-->
+<!--<a href="https://discord.gg/2gkybyu"><img src="https://canary.discordapp.com/api/guilds/549214833858576395/widget.png?style=banner2"></a>-->
 <!--Profile stats-->
 <a href=README.md><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glazelf&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"></a>
 <a href=README.md><img src="https://github-readme-stats.vercel.app/api?username=glazelf&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=true"></a>
